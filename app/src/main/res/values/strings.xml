@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">nougth and crosses</string>
+    <string name="un_jugador">1 player</string>
+    <string name="dos_jugadores">2 player</string>
+    <string name="facil">easy</string>
+    <string name="medio">medium</string>
+
+    <string name="imposible">insane</string>
+    <string name="casilla">tile</string>
+    <string name="curculos_ganan">!cirule win!</string>
+    <string name="aspas_ganan">! crose win!</string>
+    <string name="empate">Tie!</string>
+
+
+
+
+</resources>

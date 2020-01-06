@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.NoActionBar">
+        <!-- Customize your theme here. -->
+
+
+    </style>
+
+    <style name="titulo">
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">30dp</item>
+    </style>
+
+    <style name="boton_player1">
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minWidth">@dimen/ancho_min_boton</item>
+        <item name="android:minHeight">@dimen/alto_minimo_boton</item>
+        <item name="android:layout_margin">@dimen/margen_boton</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:onClick">ajugar</item>
+        <item name="android:background">@drawable/boton_color</item>
+
+
+
+    </style>
+
+
+    <style name="radio">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/texto_radio</item>
+        <item name="android:alpha">0.7</item>
+
+    </style>
+    <style name="casillas">
+
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">90dp</item>
+        <item name="android:src">@drawable/casilla</item>
+
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:onClick">toque</item>
+
+
+    </style>
+
+
+</resources>

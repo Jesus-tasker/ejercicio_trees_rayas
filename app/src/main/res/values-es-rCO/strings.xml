@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Triky</string>
+    <string name="un_jugador"> jugador 1</string>
+    <string name="dos_jugadores"> jugador 2</string>
+    <string name="facil">facil</string>
+    <string name="medio">normal</string>
+    <string name="dificil">imposible</string>
+
+    <string name="casilla">casillas</string>
+    <string name="curculos_ganan">circulos ganan!</string>
+    <string name="aspas_ganan">cruz gana!</string>
+    <string name="empate">Empate!</string>
+
+
+
+
+</resources>
